@@ -31,3 +31,7 @@ Note
 This is a simple project to understand the basics of NLP and Sentiment analysis, you can also use this to further train the model to analyze the sentiment of a text.
 
 You can use this as a base for a more complex AI project, for example by using it to analyze tweets or reviews of a product, or to train a model to classify text based on sentiment
+
+Author
+
+Barani.V.A - BaraniVA
